@@ -1,9 +1,10 @@
-#include <stdio.h>
+#include<stdio.h>
+main() 
 
+{     
 
-int main() { 
-	
-printf("Hello World");
-printf("Fare thee well");
-printf("quicker version");
+   printf("Hello World\n");
+
+   printf(“Hello You!\n”);
+
 }
