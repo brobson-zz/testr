@@ -12,4 +12,5 @@ int main() {
 	avg = avg/5;
 	
 	printf(" answer = %i", avg); 
+	printf("this change");
 }
