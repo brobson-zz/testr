@@ -2,7 +2,9 @@
 
 int main() {
 	
-	//this is the line causing issue in the master branch
+
+	//this is the line causing issue in the conflict branch
+
 	
 	int x, y, z, a, b =0;
 	int avg;
