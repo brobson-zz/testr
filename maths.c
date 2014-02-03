@@ -5,6 +5,8 @@ int main() {
 
 	//this is the line causing issue in the conflict branch
 
+	// this is the second line causing issue in the master branch
+	
 	
 	int x, y, z, a, b =0;
 	int avg;
